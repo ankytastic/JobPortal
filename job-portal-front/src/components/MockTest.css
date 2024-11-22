@@ -1,0 +1,50 @@
+.mock-test-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .language-selection {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 30px;
+  }
+  
+  .language-button {
+    font-size: 1rem;
+    padding: 10px 20px;
+  }
+  
+  .questions-section {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .question-item {
+    margin-bottom: 20px;
+  }
+  
+  .submit-button-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .submit-button {
+    padding: 12px 20px;
+  }
+  
+  @media (max-width: 600px) {
+    .mock-test-container {
+      padding: 15px;
+    }
+    .language-button {
+      font-size: 0.9rem;
+    }
+  }
+  

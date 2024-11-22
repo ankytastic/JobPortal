@@ -1,0 +1,32 @@
+.footer {
+    background-color: #333; /* Dark background */
+    color: #fff; /* White text */
+    padding: 20px 0;
+    height: 15vh;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 1200px; /* Optional max-width for better UX */
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.socials {
+    margin-bottom: 10px;
+}
+
+.socials a {
+    color: #fff; /* White icons */
+    margin: 0 10px;
+    font-size: 24px;
+    transition: color 0.3s;
+}
+
+.socials a:hover {
+    color: #007bff; /* Change color on hover */
+}
+
+.copyright {
+    font-size: 14px;
+}

@@ -1,0 +1,13 @@
+/* Example CSS to customize the layout further */
+.container-fluid {
+    padding: 0;
+  }
+  
+  .bg-light {
+    background-color: #ffffff !important;
+  }
+  
+  button {
+    border-radius: 5px;
+  }
+  
