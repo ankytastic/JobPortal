@@ -4,15 +4,15 @@ import s1 from '../components/images/ankit.png';
 import s2 from '../components/images/nimal.png';
 import s3 from '../components/images/pranav.png';
 import s4 from '../components/images/puneeth.png';
+import s5 from '../components/images/deepthi.jpg';
 
 // Sample data for the About Us Section (You can replace it with dynamic data)
 const students = [
-  { name: 'John Doe', image: s1 , company: 'TechCorp', package: '10 LPA' },
-  { name: 'Jane Smith', image: s2 , company: 'DevSolutions', package: '8 LPA' },
-  { name: 'Sam Wilson', image: s3 , company: 'CodeWorks', package: '12 LPA' },
-  { name: 'Alice Johnson', image: s4 , company: 'InnovateX', package: '9 LPA' },
-  { name: 'Mark Lee', image: s1 , company: 'FutureTech', package: '11 LPA' },
-  { name: 'Sophia Brown', image: s1 , company: 'WebWorks', package: '7 LPA' },
+  { name: 'Ankit Raj', image: s1 , company: 'TechCorp', package: '10 LPA' },
+  { name: 'Nimal Dinesh M', image: s2 , company: 'DevSolutions', package: '8 LPA' },
+  { name: 'Pranav Sahu', image: s3 , company: 'CodeWorks', package: '12 LPA' },
+  { name: 'Puneeth', image: s4 , company: 'InnovateX', package: '9 LPA' },
+  { name: 'Satya U', image: s5 , company: 'FutureTech', package: '11 LPA' },
 ];
 
 const AboutContact = () => {
